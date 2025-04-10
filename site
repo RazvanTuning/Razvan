@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Dein Name">
+    <title>Tesla – Zeitungsartikel</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        article {
+            margin: 20px;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 2.5em;
+        }
+        h2 {
+            color: #333;
+        }
+        .content-section {
+            margin-bottom: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .source {
+            font-style: italic;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Tesla: Ein Blick auf die Zukunft der Mobilität</h1>
+    </header>
+
+    <article>
+        <section class="content-section">
+            <h2>Über Tesla</h2>
+            <p>Tesla, gegründet von Elon Musk, hat die Automobilbranche revolutioniert. Mit seinen innovativen Elektrofahrzeugen hat Tesla den Weg für eine nachhaltige Mobilität geebnet. Das Unternehmen verfolgt das Ziel, die Welt von fossilen Brennstoffen zu befreien und nachhaltige Energiequellen in den Alltag der Menschen zu integrieren.</p>
+        </section>
+
+        <section class="content-section">
+            <h2>Die Tesla-Fahrzeuge</h2>
+            <p>Die Produktpalette von Tesla umfasst verschiedene Modelle, darunter das Model S, Model 3, Model X und Model Y. Diese Fahrzeuge zeichnen sich durch ihre Reichweite, Leistung und innovative Technologie aus. Tesla setzt auf Autopilot und setzt Maßstäbe in der Entwicklung von selbstfahrenden Autos.</p>
+        </section>
+
+        <section class="content-section">
+            <h2>Die Vision von Elon Musk</h2>
+            <p>Elon Musk, der CEO von Tesla, hat eine Vision für die Zukunft, die über die Automobilindustrie hinausgeht. Mit Projekten wie der Entwicklung von Batterien für die Speicherung erneuerbarer Energien und dem Bau von Solarenergieanlagen zielt Musk darauf ab, die Weltwirtschaft nachhaltig zu transformieren.</p>
+        </section>
+
+        <section class="content-section">
+            <h2>Die Bedeutung für die Umwelt</h2>
+            <p>Tesla spielt eine Schlüsselrolle in der Bekämpfung des Klimawandels, indem das Unternehmen Elektroautos produziert, die den CO2-Ausstoß verringern und den Übergang zu grüner Energie fördern. Das Wachstum von Tesla ist ein Beweis für das wachsende Interesse und die Notwendigkeit, umweltfreundliche Alternativen in die Praxis umzusetzen.</p>
+        </section>
+
+        <p class="source">Quelle: Informationen basierend auf verschiedenen Quellen, einschließlich Unternehmenswebseite und Medienberichten.</p>
+    </article>
+
+    <footer>
+        <p>&copy; 2025 Dein Name – Alle Rechte vorbehalten</p>
+    </footer>
+</body>
+</html>
